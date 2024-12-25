@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Java Software Engineer with 2 years of commercial experience in Java, Spring, PostgreSQL, MySQL and related tools.<br>I have hands-on experience with test automation, including CI/CD pipelines in Jenkins, test optimization, and enhancing database query performance.<br>I am a hardworking team player with strong problem-solving skills, always eager to learn and contribute to innovative projects. <br>
+I am a Java Software Engineer with 2 years of commercial experience in Java, Spring, PostgreSQL, MySQL and related tools.<br><br>I have hands-on experience with test automation, including CI/CD pipelines in Jenkins, test optimization, and enhancing database query performance.<br><br>I am a hardworking team player with strong problem-solving skills, always eager to learn and contribute to innovative projects. <br>
 
 
 ## 🌐 Socials:
